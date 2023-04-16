@@ -1,0 +1,21 @@
+[package]
+name = "rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rayon = "1.6.1"
+text_io = "0.1.12"
+
+[[bin]]
+name = "answer"
+path = "main.rs"
+
+[profile.release]
+opt-level = 3
+overflow-checks = false
+
+[profile.dev]
+overflow-checks = false

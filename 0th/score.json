@@ -1,0 +1,22 @@
+{
+    "userId": "K30WiPQIWQo8crDpz4Cpy",
+    "score": 1268,
+    "scores": {
+      "0th_basic_intro": 10,
+      "0th_basic_qa": 100,
+      "0th_basic_simple": 50,
+      "0th_basic_signin": 20,
+      "0th_parallel_omp_inte": 60,
+      "0th_parallel_omp_cmul": 90,
+      "0th_parallel_sort": 166,
+      "0th_parallel_pi": 50,
+      "0th_parallel_omp_cgs": 120,
+      "0th_parallel_convolution": 196,
+      "0th_integrated_aitisa": 98,
+      "0th_gpu_cuda_caustics": 80,
+      "0th_gpu_imageclassification": 170,
+      "0th_integrated_rdma": 14,
+      "0th_gpu_cuda_fft": 44
+    },
+    "last": 1674091955508
+}
